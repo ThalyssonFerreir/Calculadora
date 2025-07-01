@@ -1,2 +1,3 @@
 # Calculadora
-Uma calculadora feita em react.js
+Um projeto de criar uma calculadora utilizando react.js
+
